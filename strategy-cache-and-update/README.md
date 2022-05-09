@@ -15,7 +15,7 @@ data to update the cache entry ensuring next time the user visits the page they
 will see up to date content.
 
 See
-[cache, update and refresh](/strategy-cache-update-and-refresh.html) for a
+[cache, update and refresh](/strategy-cache-update-and-refresh) for a
 variation in which the UI is notified when the fresh data is available.
 
 ## Category
